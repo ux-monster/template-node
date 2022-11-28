@@ -1,0 +1,12 @@
+{
+	"name": "template-node",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/ux-monster/template-node.git",
+	"author": "popomon",
+	"license": "MIT",
+	"engines": {
+		"node": "v18.12.1",
+		"npm": "8.19.2"
+	}
+}
