@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@src/*": ["src/*"]
+      // Add folder
+      // "@xxx/*": ["src/xxx/*"],
+    }
+  }
+}
